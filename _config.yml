@@ -1,0 +1,33 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Venkat's Weblog - A collection of tips, documentation and projects 
+email: venkat@vgvenkataraman.com
+description: > # this means to ignore newlines until "baseurl:"
+ A blog on webdev tips, tricks, documentation and my other projects.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://vgvenkataraman.com" # the base hostname & protocol for your site
+twitter_username: vgkrish
+github_username:  vgvenkat
+gems : [jekyll-paginate]
+paginate : 4
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "posts"
+      author: "Venkat Ganesan"
+      comments : true
