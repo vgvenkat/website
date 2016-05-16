@@ -10,7 +10,7 @@ title: Venkat's Weblog - A collection of tips, documentation and projects
 email: venkat@vgvenkataraman.com
 description: > # this means to ignore newlines until "baseurl:"
  A blog on webdev tips, tricks, documentation and my other projects.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "http://vgvenkataraman.com" # the base hostname & protocol for your site
 twitter_username: vgkrish
 github_username:  vgvenkat
