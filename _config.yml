@@ -11,7 +11,7 @@ email: venkat@vgvenkataraman.com
 description: > # this means to ignore newlines until "baseurl:"
  A blog on webdev tips, tricks, documentation and my other projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://vgvenkataraman.com" # the base hostname & protocol for your site
+url: "http://blog.vgvenkataraman.com" # the base hostname & protocol for your site
 twitter_username: vgkrish
 github_username:  vgvenkat
 gems : [jekyll-paginate]
