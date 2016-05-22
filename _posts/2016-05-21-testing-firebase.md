@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Checking out Firebase"
+date:   2016-05-021 23:11:05 -0700
+categories: init firebase
+---
 # Checking out Firebase
 
 I just saw a tweet on how easy it was to use firebase for hosting a blog. 
