@@ -14,6 +14,7 @@ Saw a few videos from google io '16'. Now testing it out from [Firebase starting
 
 The steps are really easy and it actually took no time running a dummy website website!
 
-* [x] Job Done!
+- [x] Job Done!
+- [ ] a task list item
 
 [Firebase website](https://testweb-cb668.firebaseapp.com/ "deployed dummy website")
