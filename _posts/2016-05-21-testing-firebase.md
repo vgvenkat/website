@@ -5,7 +5,6 @@ date:   2016-05-021 23:11:05 -0700
 categories: init firebase
 image : firebase-tweet.png
 ---
-# Checking out Firebase
 
 I just saw a tweet on how easy it was to use firebase for hosting a blog. 
 ![Tweet-about-easy-firebase](/images/firebase-tweet.png "tweet about firebase")
