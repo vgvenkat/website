@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DNS and state of websites"
-date:   2016-05-024 23:11:05 -0700
+date:   2016-05-24 23:11:05 -0700
 categories: DNS hosting
 ---
 # DNS and inmotion hosts
