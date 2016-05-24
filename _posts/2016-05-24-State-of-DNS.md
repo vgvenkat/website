@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "DNS and state of websites"
+date:   2016-05-024 23:11:05 -0700
+categories: DNS hosting
+---
 # DNS and inmotion hosts
 
 I had previously spoken with my hosts that [my website](http://vgvenkataraman.com) redirects to a default inmotion page, more than a week ago.
