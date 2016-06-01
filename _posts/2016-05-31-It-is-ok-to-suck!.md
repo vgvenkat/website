@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "It is ok to suck!"
-date:   {{ page.date }}
+date:   2016-05-31 20:34:05 -0700
 categories: devleopment thinking design
 ---
 
