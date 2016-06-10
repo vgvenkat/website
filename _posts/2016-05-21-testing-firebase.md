@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Checking out Firebase"
-date:   2016-05-021 23:11:05 -0700
+date:   2016-05-21 23:11:05 -0700
 categories: init firebase
 image : firebase-tweet.png
 ---
