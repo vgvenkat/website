@@ -24,3 +24,6 @@ For languages from right to left, use `<html dir="rtl" lang="ar">` or use `direc
 - use `margin: 0 auto`. this will center content if it is block element
 
 Tables have `caption, thead, tbody,` elements. Use tables sparingly as not so good for accessibility and SEO
+
+**Text-Shadows**
+- Checkout the interactive shadow creator http://css3gen.com/text-shadow/ .  This is awesome!!
